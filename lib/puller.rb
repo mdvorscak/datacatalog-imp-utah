@@ -7,7 +7,7 @@ class Puller
   I = DataCatalog::ImporterFramework
   
   FETCH_DELAY = 0.3
-  FORCE_FETCH = false 
+  FORCE_FETCH = true 
   
   #Pull the initial data down and save it locally, parsed in easily readable form.
   def initialize

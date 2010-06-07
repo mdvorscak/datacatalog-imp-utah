@@ -33,7 +33,6 @@ class OrganizationPuller < Puller
 			data[:name]=U.single_line_clean(a_tag.inner_text)
 			data[:href]=URI.unescape(a_tag["href"])
 			metadata<<{
-				:org_type=>data[:org_type],
 				:name=>data[:name],
 				:href=>data[:href],
 			}	
@@ -62,7 +61,7 @@ class OrganizationPuller < Puller
       :url          => metadata[:href],
       :catalog_name => "utah.gov",
       :catalog_url  => @base_uri,
-      :org_type     => metadata[:org_type],
+      :org_type     => "governmental",
       :organization => { :name => "Utah" },
 
 	}
