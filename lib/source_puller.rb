@@ -45,18 +45,19 @@ class SourcePuller < Puller
   def add_format(formats,label,node)
 	  a_tag=node.css("a").first
 	  if a_tag
-		  link=URI.unescape(a_tag["href"])
+		  #link=URI.unescape(a_tag["href"])
+		  link=a_tag["href"]
 
       #Add http:// if it isn't there
-      "http://"+link if link.match(/^http:\/\//).nil?
+      link="http://"+link if link.match(/^http:\/\//).nil?
 		  formats[:downloads][label]={:href=>link}
 		  #strip http:// out to make the next regex simpler
 		  plain_link=link.gsub("http://","")
 		  #Only go to the first /
 		  source_link=plain_link.scan(/.*?\//).first
 		  	
-		  formats[:source][:source_url]="http://"+source_link
-		  formats[:source][:source_org]=source_link.chop
+		  formats[:source][:source_url]="http://"+source_link.chop!
+		  formats[:source][:source_org]=source_link
 
 	  end
   end
@@ -77,7 +78,7 @@ class SourcePuller < Puller
 			downloads<<{ :url=>value[:href],:format=>key}
 		  end
 
-		  m[:organization]={:home_url=>source[:source_url] ,
+		  m[:organization]={:url=>source[:source_url] ,
 			  	    :name=>source[:source_org] }
 
 		  m[:downloads]=downloads
