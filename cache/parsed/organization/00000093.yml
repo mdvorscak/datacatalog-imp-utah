@@ -1,8 +1,8 @@
 --- 
 :catalog_name: utah.gov
 :catalog_url: http://www.utah.gov/government/agencylist.html
-:name: Industrial Accidents Division
+:name: Business.utah.gov
 :org_type: governmental
 :organization: 
   :name: Utah
-:url: http://laborcommission.utah.gov/IndustrialAccidents/index.html
+:url: http://www.utah.gov/business

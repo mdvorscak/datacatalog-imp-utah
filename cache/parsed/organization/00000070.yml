@@ -1,8 +1,8 @@
 --- 
 :catalog_name: utah.gov
 :catalog_url: http://www.utah.gov/government/agencylist.html
-:name: State History
+:name: State Library
 :org_type: governmental
 :organization: 
   :name: Utah
-:url: http://history.utah.gov
+:url: http://library.utah.gov

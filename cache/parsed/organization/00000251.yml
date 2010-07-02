@@ -1,8 +1,8 @@
 --- 
 :catalog_name: utah.gov
 :catalog_url: http://www.utah.gov/government/agencylist.html
-:name: Employer Services
+:name: Governor's Office of Economic Development
 :org_type: governmental
 :organization: 
   :name: Utah
-:url: http://jobs.utah.gov/employer
+:url: http://business.utah.gov

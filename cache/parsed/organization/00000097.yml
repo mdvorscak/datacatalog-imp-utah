@@ -1,8 +1,8 @@
 --- 
 :catalog_name: utah.gov
 :catalog_url: http://www.utah.gov/government/agencylist.html
-:name: Individual/Agency Licensing
+:name: Rate/Forms
 :org_type: governmental
 :organization: 
   :name: Utah
-:url: http://www.insurance.utah.gov/producers/exam_license_procedures.html
+:url: http://www.insurance.utah.gov/rate/index.html

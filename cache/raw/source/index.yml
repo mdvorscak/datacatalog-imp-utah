@@ -3,99 +3,99 @@
   :formats: 
     :downloads: 
       CSV: 
-        :href: jobs.utah.gov/opencms/wi/statewide/statewidewage.xls
+        :href: http://jobs.utah.gov/opencms/wi/statewide/statewidewage.xls
       XLS: 
-        :href: jobs.utah.gov/opencms/wi/statewide/statewidewage.xls
+        :href: http://jobs.utah.gov/opencms/wi/statewide/statewidewage.xls
     :source: 
       :source_org: jobs.utah.gov
-      :source_url: http://jobs.utah.gov/
+      :source_url: http://jobs.utah.gov
   :title: "Average Wage Information "
 - :description: 2008 Baseline Projections Summary
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/ERG/ERG2008/ProjectionSummary.xls
+        :href: http://governor.utah.gov/dea/ERG/ERG2008/ProjectionSummary.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "Demographic and Economic Projections: 2008   Baseline Projections Summary"
 - :description: Population estimates for the State of Utah and Counties 1940-2008
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/UPEC/AllUPECData081120.xls
+        :href: http://governor.utah.gov/dea/UPEC/AllUPECData081120.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "Demographics Population Estimates: The   State of Utah and Counties 1940-2008"
 - :description: Population Projections with Population by Area, Gender and Selected Age Groups
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/ERG/ERG2008/Selected Age.xls
+        :href: http://governor.utah.gov/dea/ERG/ERG2008/Selected%20Age.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "Demographics Projections: Population by   Area, Gender and Selected Age Groups"
 - :description: Exploration and Drilling Activity (Oil and Gas) in Utah, 1960-2008
   :formats: 
     :downloads: 
       XLS: 
-        :href: geology.utah.gov/emp/energydata/statistics/petroleum3.0/T3.3.xls
+        :href: http://geology.utah.gov/emp/energydata/statistics/petroleum3.0/T3.3.xls
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: "Exploration and Drilling Activity "
 - :description: A directory of companies in 28 Utah Counties excluding Salt Lake County
   :formats: 
     :downloads: 
       CSV: 
-        :href: jobs.utah.gov/jsp/firmfind/csvfiles/ffind_other.csv
+        :href: http://jobs.utah.gov/jsp/firmfind/csvfiles/ffind_other.csv
     :source: 
       :source_org: jobs.utah.gov
-      :source_url: http://jobs.utah.gov/
+      :source_url: http://jobs.utah.gov
   :title: Firmfind - Other Utah Counties
 - :description: A directory of companies in Salt Lake County
   :formats: 
     :downloads: 
       CSV: 
-        :href: jobs.utah.gov/jsp/firmfind/csvfiles/ffind_saltlake.csv
+        :href: http://jobs.utah.gov/jsp/firmfind/csvfiles/ffind_saltlake.csv
     :source: 
       :source_org: jobs.utah.gov
-      :source_url: http://jobs.utah.gov/
+      :source_url: http://jobs.utah.gov
   :title: Firmfind - SLC
 - :description: Gall bladder removals (in-patient and out-patient) at Utah Hospitals
   :formats: 
     :downloads: 
       CSV: 
-        :href: health.utah.gov/myhealthcare/reports/2007/gallbladder/allTables.xls
+        :href: http://health.utah.gov/myhealthcare/reports/2007/gallbladder/allTables.xls
       XLS: 
-        :href: health.utah.gov/myhealthcare/reports/2007/gallbladder/allTables.xls
+        :href: http://health.utah.gov/myhealthcare/reports/2007/gallbladder/allTables.xls
     :source: 
       :source_org: health.utah.gov
-      :source_url: http://health.utah.gov/
+      :source_url: http://health.utah.gov
   :title: Gallbladder Removals
 - :description: "Average Hospital Charges for Adults 18 Years and Over, Utah: 2006"
   :formats: 
     :downloads: 
       CSV: 
-        :href: health.utah.gov/myhealthcare/reports/2007/heartUpdate/charges/heartFailure.xls
+        :href: http://health.utah.gov/myhealthcare/reports/2007/heartUpdate/charges/heartFailure.xls
       XLS: 
-        :href: health.utah.gov/myhealthcare/reports/2007/heartUpdate/charges/heartFailure.xls
+        :href: http://health.utah.gov/myhealthcare/reports/2007/heartUpdate/charges/heartFailure.xls
     :source: 
       :source_org: health.utah.gov
-      :source_url: http://health.utah.gov/
+      :source_url: http://health.utah.gov
   :title: Heart Failure Rates at Utah Hospitals
 - :description: Comparison of Death Rates at Utah Hospitals for Hip Replacement Patients
   :formats: 
     :downloads: 
       CSV: 
-        :href: health.utah.gov/myhealthcare/reports/2007/hipUpdate/quality/hipReplacement.xls
+        :href: http://health.utah.gov/myhealthcare/reports/2007/hipUpdate/quality/hipReplacement.xls
       XLS: 
-        :href: health.utah.gov/myhealthcare/reports/2007/hipUpdate/quality/hipReplacement.xls
+        :href: http://health.utah.gov/myhealthcare/reports/2007/hipUpdate/quality/hipReplacement.xls
     :source: 
       :source_org: health.utah.gov
-      :source_url: http://health.utah.gov/
+      :source_url: http://health.utah.gov
   :title: Hip Replacement Deaths in Utah Hospitals
 - :description: |-
     The Preliminary Landslide History Database of Utah, 
@@ -104,219 +104,219 @@
   :formats: 
     :downloads: 
       XLS: 
-        :href: geology.utah.gov/databases/landslide-history/excel/lsdb_access_3Aug07.xls
+        :href: http://geology.utah.gov/databases/landslide-history/excel/lsdb_access_3Aug07.xls
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: Landslide Database of Utah, 1850-1978
 - :description: List of Public Safety Answering Points (PSAPS) in Utah. These centers respond to 911 calls and provide dispatch services for law enforcement in Utah
   :formats: 
     :downloads: 
       XLS: 
-        :href: www.e911.utah.gov/docsfile/MasterPSAPRegistryV2.4_utah_only.xls
+        :href: http://www.e911.utah.gov/docsfile/MasterPSAPRegistryV2.4_utah_only.xls
     :source: 
       :source_org: www.e911.utah.gov
-      :source_url: http://www.e911.utah.gov/
+      :source_url: http://www.e911.utah.gov
   :title: Master PSAP Registry 2009
 - :description: Surface weather observations from MesoWest (Univ. of Utah) and RTMA images of surface temperature, moisture, wind, and precipitation
   :formats: 
     :downloads: 
       KMZ: 
-        :href: mesowest.utah.edu/data/load_mesowest.kmz
+        :href: http://mesowest.utah.edu/data/load_mesowest.kmz
     :source: 
       :source_org: mesowest.utah.edu
-      :source_url: http://mesowest.utah.edu/
+      :source_url: http://mesowest.utah.edu
   :title: MesoWest Surface Weather
 - :description: Average Newborn Hospital Charges
   :formats: 
     :downloads: 
       XLS: 
-        :href: health.utah.gov/myhealthcare/reports/maternity2006/charges/normalNewborn.xls
+        :href: http://health.utah.gov/myhealthcare/reports/maternity2006/charges/normalNewborn.xls
     :source: 
       :source_org: health.utah.gov
-      :source_url: http://health.utah.gov/
+      :source_url: http://health.utah.gov
   :title: Newborn Hospital Charges
 - :description: Comparison of Death Rates at Utah Hospitals for Pneumonia Patients
   :formats: 
     :downloads: 
       CSV: 
-        :href: health.utah.gov/myhealthcare/reports/2007/pnuemonia/quality/PneumoniaQuality
+        :href: http://health.utah.gov/myhealthcare/reports/2007/pnuemonia/quality/PneumoniaQuality
       XLS: 
-        :href: health.utah.gov/myhealthcare/reports/2007/pnuemonia/quality/PneumoniaQuality
+        :href: http://health.utah.gov/myhealthcare/reports/2007/pnuemonia/quality/PneumoniaQuality
     :source: 
       :source_org: health.utah.gov
-      :source_url: http://health.utah.gov/
+      :source_url: http://health.utah.gov
   :title: Pneumonia Deaths
 - :description: A new interactive map of Snake Valley with all of the well data. West Desert Ground-Water Monitoring Network is almost complete and updates are available on a newly developed Google Earth interactive map
   :formats: 
     :downloads: 
       KMZ: 
-        :href: geology.utah.gov/esp/snake_valley_project/kmz/SVWMP.kmz
+        :href: http://geology.utah.gov/esp/snake_valley_project/kmz/SVWMP.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: Snake Valley Well Data
 - :description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
   :formats: 
     :downloads: 
       KML: 
-        :href: geology.utah.gov/geo_guides/st_george/kmz/Geology of the NE quarter of the St. George 30'x60' quad.kmz
+        :href: http://geology.utah.gov/geo_guides/st_george/kmz/Geology%20of%20the%20NE%20quarter%20of%20the%20St.%20George%2030%27x60%27%20quad.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: St. George Geology NE Corner
 - :description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
   :formats: 
     :downloads: 
       KML: 
-        :href: geology.utah.gov/geo_guides/st_george/kmz/Geology of the NW quarter of the St. George 30'x60' quad.kmz
+        :href: http://geology.utah.gov/geo_guides/st_george/kmz/Geology%20of%20the%20NW%20quarter%20of%20the%20St.%20George%2030%27x60%27%20quad.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: St. George Geology NW Corner
 - :description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
   :formats: 
     :downloads: 
       KML: 
-        :href: geology.utah.gov/geo_guides/st_george/kmz/Geology of the SE quarter of the St. George 30'x60' quad.kmz
+        :href: http://geology.utah.gov/geo_guides/st_george/kmz/Geology%20of%20the%20SE%20quarter%20of%20the%20St.%20George%2030%27x60%27%20quad.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: ST. George Geology SE Corner
 - :description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
   :formats: 
     :downloads: 
       KML: 
-        :href: geology.utah.gov/geo_guides/st_george/kmz/Geology of the SW quarter of the St. George 30'x60' quad.kmz
+        :href: http://geology.utah.gov/geo_guides/st_george/kmz/Geology%20of%20the%20SW%20quarter%20of%20the%20St.%20George%2030%27x60%27%20quad.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: St. George Geology SW Corner
 - :description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
   :formats: 
     :downloads: 
       KML: 
-        :href: geology.utah.gov/geo_guides/st_george/kmz/st_george_field_trip.kmz
+        :href: http://geology.utah.gov/geo_guides/st_george/kmz/st_george_field_trip.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: St. George Virtual Field Trip
 - :description: Labor Force, Employment, Unemployment and Unemployment Rate
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/laborforce06.xls
+        :href: http://governor.utah.gov/dea/historical%20data/laborforce06.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Labor Force"
 - :description: Non-Agricultural Payroll Employment by SIC Industry
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/sicemployment.xls
+        :href: http://governor.utah.gov/dea/historical%20data/sicemployment.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Non Agricultural Payroll by SIC"
 - :description: Non-Agricultural Payroll Employment by NAICS Industry
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/naicsemployment.xls
+        :href: http://governor.utah.gov/dea/historical%20data/naicsemployment.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Non-Agricultural Payroll Employment by NAICS"
 - :description: Personal Income and Earnings (BEA CA 30 Data)
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/beaca30.xls
+        :href: http://governor.utah.gov/dea/historical%20data/beaca30.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Personal Income and Earnings (BEA CA 30 Data)"
 - :description: Residential Building Permits
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/buildingpermits.xls
+        :href: http://governor.utah.gov/dea/historical%20data/buildingpermits.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Residential Building Permits"
 - :description: Total Non-Agricultural Wages and Salaries (NAICS)
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/naicswages.xls
+        :href: http://governor.utah.gov/dea/historical%20data/naicswages.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Total Non-Agricultural Wages and Salaries (NAICS)"
 - :description: Total Non-Agricultural Wages and Salaries (SIC)
   :formats: 
     :downloads: 
       XLS: 
-        :href: governor.utah.gov/dea/historical data/sicwages.xls
+        :href: http://governor.utah.gov/dea/historical%20data/sicwages.xls
     :source: 
       :source_org: governor.utah.gov
-      :source_url: http://governor.utah.gov/
+      :source_url: http://governor.utah.gov
   :title: "State and County Historical Economic Data:   Total Non-Agricultural Wages and Salaries (SIC)"
 - :description: Soil sampling data from across the state of Utah.
   :formats: 
     :downloads: 
       CSV: 
-        :href: geology.utah.gov/emp/ucrc/ucrcfullcatalogue_13Jan09.txt
+        :href: http://geology.utah.gov/emp/ucrc/ucrcfullcatalogue_13Jan09.txt
       XLS: 
-        :href: geology.utah.gov/emp/ucrc/ucrcfullcatalogue_13Jan09.xls
+        :href: http://geology.utah.gov/emp/ucrc/ucrcfullcatalogue_13Jan09.xls
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: Utah Core Research Sample Catalog
 - :description: Explore geological sites in Utah with Google Earth.
   :formats: 
     :downloads: 
       KML: 
-        :href: geology.utah.gov/google_earth/kml_kmz/ugs_geosights.kmz
+        :href: http://geology.utah.gov/google_earth/kml_kmz/ugs_geosights.kmz
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: Utah GeoSights
 - :description: Utah Refinery Receipts of Crude Oil by State of Origin, 1960-2008
   :formats: 
     :downloads: 
       XLS: 
-        :href: geology.utah.gov/emp/energydata/statistics/petroleum3.0/T3.15a & F3.8.xls
+        :href: http://geology.utah.gov/emp/energydata/statistics/petroleum3.0/T3.15a%20&%20F3.8.xls
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: Utah Refinery Receipts of Crude Oil
 - :description: The Well and Spring database contains data of 2981 wells, springs, and miscellaneous sites such as collector wells and mines.
   :formats: 
     :downloads: 
       XLS: 
-        :href: geology.utah.gov/emp/geothermal/wells_springs_database/ut_wells_springs_data.xls
+        :href: http://geology.utah.gov/emp/geothermal/wells_springs_database/ut_wells_springs_data.xls
     :source: 
       :source_org: geology.utah.gov
-      :source_url: http://geology.utah.gov/
+      :source_url: http://geology.utah.gov
   :title: "Utah Wells and Springs "
 - :description: Part of a larger set of spacial data files that can be found at http://www.co.weber.ut.us/wiki/index.php/Category:KMZ
   :formats: 
     :downloads: 
       KML: 
-        :href: www.co.weber.ut.us/wiki/images/4/49/WeberCountyCities.kmz
+        :href: http://www.co.weber.ut.us/wiki/images/4/49/WeberCountyCities.kmz
     :source: 
       :source_org: www.co.weber.ut.us
-      :source_url: http://www.co.weber.ut.us/
+      :source_url: http://www.co.weber.ut.us
   :title: Weber County City Boundaries
 - :description: Part of a larger set of spacial data files that can be found at http://www.co.weber.ut.us/wiki/index.php/Category:KMZ
   :formats: 
     :downloads: 
       KML: 
-        :href: www.co.weber.ut.us/wiki/images/9/9b/WeberCountyPrimeFarmlands.kmz
+        :href: http://www.co.weber.ut.us/wiki/images/9/9b/WeberCountyPrimeFarmlands.kmz
     :source: 
       :source_org: www.co.weber.ut.us
-      :source_url: http://www.co.weber.ut.us/
+      :source_url: http://www.co.weber.ut.us
   :title: Weber County Prime Farmland

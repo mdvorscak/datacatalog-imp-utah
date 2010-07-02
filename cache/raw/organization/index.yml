@@ -1,24 +1,24 @@
 --- 
-- :href: http://dfi.utah.gov
-  :name: Department of Financial Institutions
 - :href: http://abc.utah.gov
   :name: Alcoholic Beverage Control Department
-- :href: http://mved.utah.gov
-  :name: Auto Industry Regulation
 - :href: http://laborcommission.utah.gov/AntidiscriminationandLabor/index.html
   :name: Anti-Discrimination
-- :href: http://business.utah.gov
-  :name: Governor's Office of Economic Development
+- :href: http://mved.utah.gov
+  :name: Auto Industry Regulation
 - :href: http://www.commerce.utah.gov
   :name: Commerce Department
 - :href: http://ccs.utah.gov
   :name: Committee of Consumer Services
 - :href: http://www.consumerprotection.utah.gov
   :name: Consumer Protection
+- :href: http://dfi.utah.gov
+  :name: Department of Financial Institutions
 - :href: http://www.governor.utah.gov/dea
   :name: Demographic & Economic Analysis
 - :href: http://jobs.utah.gov/employer
   :name: Employer Services
+- :href: http://business.utah.gov
+  :name: Governor's Office of Economic Development
 - :href: http://international.utah.gov
   :name: International Business Development
 - :href: http://www.udot.utah.gov/index.php/m=c/tid=381
@@ -53,6 +53,8 @@
   :name: Community and Culture, Department of
 - :href: http://artsandmuseums.utah.gov/funding/grants/index.html
   :name: Community Development Grants
+- :href: http://arts.utah.gov
+  :name: Division of Arts and Museums
 - :href: http://ethnicoffice.utah.gov
   :name: Ethnic Offices
 - :href: http://ethnicoffice.utah.gov
@@ -67,8 +69,6 @@
   :name: State Library
 - :href: http://fleet.utah.gov/surplus/index.html
   :name: Surplus Property
-- :href: http://arts.utah.gov
-  :name: Division of Arts and Museums
 - :href: http://www.volunteers.utah.gov
   :name: Utah Commission on Volunteers
 - :href: http://www.utahhousingcorp.org
@@ -315,36 +315,36 @@
   :name: State Information Technology Commission
 - :href: http://business.utah.gov
   :name: Utah Technology Alliance
-- :href: http://www.insurance.utah.gov
-  :name: Insurance (Department of)
-- :href: http://www.insurance.utah.gov/rate/index.html
-  :name: Rate/Forms
-- :href: http://www.insurance.utah.gov/fraud/index.html
-  :name: Insurance Fraud
 - :href: http://www.insurance.utah.gov/insuranceoverview/index.html
   :name: Consumer Services
 - :href: http://www.insurance.utah.gov/insurers/CompanyLicensing.html
   :name: Company Licensing
 - :href: http://www.insurance.utah.gov/producers/exam_license_procedures.html
   :name: Individual/Agency Licensing
-- :href: http://www.laborcommission.utah.gov
-  :name: Labor Commission
+- :href: http://www.insurance.utah.gov
+  :name: Insurance (Department of)
+- :href: http://www.insurance.utah.gov/fraud/index.html
+  :name: Insurance Fraud
+- :href: http://www.insurance.utah.gov/rate/index.html
+  :name: Rate/Forms
 - :href: http://laborcommission.utah.gov/Adjudication/index.htm
   :name: Adjudication Division
 - :href: http://laborcommission.utah.gov/AntidiscriminationandLabor/index.html
   :name: Anti-Discrimination and Labor Division
-- :href: http://laborcommission.utah.gov/IndustrialAccidents/index.html
-  :name: Industrial Accidents Division
-- :href: http://www.laborcommission.utah.gov/UOSH/index.html
-  :name: Occupational Safety & Health Division
 - :href: http://laborcommission.utah.gov/BoilerandElevatorSafety/index.htm
   :name: Boiler and Elevator Safety Division
+- :href: http://www.utah.gov/business
+  :name: Business.utah.gov
+- :href: http://laborcommission.utah.gov/IndustrialAccidents/index.html
+  :name: Industrial Accidents Division
+- :href: http://www.laborcommission.utah.gov
+  :name: Labor Commission
+- :href: http://www.laborcommission.utah.gov/UOSH/index.html
+  :name: Occupational Safety & Health Division
 - :href: http://ogm.utah.gov
   :name: Oil Gas & Mining
 - :href: http://science.utah.gov
   :name: Science Advisor
-- :href: http://www.utah.gov/business
-  :name: Business.utah.gov
 - :href: http://www.rules.utah.gov
   :name: Administrative Rules
 - :href: http://abc.utah.gov
@@ -363,26 +363,26 @@
   :name: District Courts
 - :href: http://jcc.utah.gov
   :name: Judicial Conduct Commission
-- :href: http://www.utcourts.gov/lawlibrary
-  :name: Utah State Law Library
 - :href: http://www.loc.gov/law/public/law.html
   :name: Law Library of Congress (Federal)
 - :href: http://www.utcourts.gov/courts/sup
   :name: Supreme Court
 - :href: http://www.utcourts.gov
   :name: Utah State Courts
+- :href: http://www.utcourts.gov/lawlibrary
+  :name: Utah State Law Library
 - :href: http://history.utah.gov/archaeology/index.html
   :name: Archaeology and Antiquities
 - :href: http://history.utah.gov/state_historic_preservation_office/index.html
   :name: Historic Preservation
-- :href: http://www.historytogo.utah.gov
-  :name: Utah History to Go
 - :href: http://blindlibrary.utah.gov
   :name: Library Services for the Disabled
 - :href: http://history.utah.gov
   :name: State History
 - :href: http://library.utah.gov
   :name: State Library
+- :href: http://www.historytogo.utah.gov
+  :name: Utah History to Go
 - :href: http://www.ut.ngb.army.mil
   :name: Utah National Guard
 - :href: http://bop.utah.gov

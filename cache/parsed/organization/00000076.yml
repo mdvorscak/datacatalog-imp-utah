@@ -1,8 +1,8 @@
 --- 
 :catalog_name: utah.gov
 :catalog_url: http://www.utah.gov/government/agencylist.html
-:name: Supreme Court
+:name: Utah State Courts
 :org_type: governmental
 :organization: 
   :name: Utah
-:url: http://www.utcourts.gov/courts/sup
+:url: http://www.utcourts.gov

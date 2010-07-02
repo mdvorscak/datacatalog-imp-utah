@@ -1,8 +1,8 @@
 --- 
 :catalog_name: utah.gov
 :catalog_url: http://www.utah.gov/government/agencylist.html
-:name: Company Licensing
+:name: Insurance Fraud
 :org_type: governmental
 :organization: 
   :name: Utah
-:url: http://www.insurance.utah.gov/insurers/CompanyLicensing.html
+:url: http://www.insurance.utah.gov/fraud/index.html
