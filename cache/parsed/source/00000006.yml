@@ -1,0 +1,16 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Soil sampling data from across the state of Utah.
+:downloads: 
+- :format: CSV
+  :url: http://geology.utah.gov/emp/ucrc/ucrcfullcatalogue_13Jan09.txt
+- :format: XLS
+  :url: http://geology.utah.gov/emp/ucrc/ucrcfullcatalogue_13Jan09.xls
+:frequency: unknown
+:organization: 
+  :name: geology.utah.gov
+  :url: http://geology.utah.gov
+:source_type: dataset
+:title: Utah Core Research Sample Catalog
+:url: http://geology.utah.gov

@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
+:downloads: 
+- :format: KML
+  :url: http://geology.utah.gov/geo_guides/st_george/kmz/st_george_field_trip.kmz
+:frequency: unknown
+:organization: 
+  :name: geology.utah.gov
+  :url: http://geology.utah.gov
+:source_type: dataset
+:title: St. George Virtual Field Trip
+:url: http://geology.utah.gov

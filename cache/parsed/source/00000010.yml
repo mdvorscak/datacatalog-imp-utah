@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Personal Income and Earnings (BEA CA 30 Data)
+:downloads: 
+- :format: XLS
+  :url: http://governor.utah.gov/dea/historical%20data/beaca30.xls
+:frequency: unknown
+:organization: 
+  :name: governor.utah.gov
+  :url: http://governor.utah.gov
+:source_type: dataset
+:title: "State and County Historical Economic Data:   Personal Income and Earnings (BEA CA 30 Data)"
+:url: http://governor.utah.gov

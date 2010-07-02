@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Total Non-Agricultural Wages and Salaries (NAICS)
+:downloads: 
+- :format: XLS
+  :url: http://governor.utah.gov/dea/historical%20data/naicswages.xls
+:frequency: unknown
+:organization: 
+  :name: governor.utah.gov
+  :url: http://governor.utah.gov
+:source_type: dataset
+:title: "State and County Historical Economic Data:   Total Non-Agricultural Wages and Salaries (NAICS)"
+:url: http://governor.utah.gov

@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Population estimates for the State of Utah and Counties 1940-2008
+:downloads: 
+- :format: XLS
+  :url: http://governor.utah.gov/dea/UPEC/AllUPECData081120.xls
+:frequency: unknown
+:organization: 
+  :name: governor.utah.gov
+  :url: http://governor.utah.gov
+:source_type: dataset
+:title: "Demographics Population Estimates: The   State of Utah and Counties 1940-2008"
+:url: http://governor.utah.gov

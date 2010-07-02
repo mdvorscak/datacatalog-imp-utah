@@ -1,0 +1,17 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: |-
+  The Preliminary Landslide History Database of Utah, 
+  	 1850-1978 provides mostly non-technical information on landslide events 
+   that occurred from 1850 to 1978.
+:downloads: 
+- :format: XLS
+  :url: http://geology.utah.gov/databases/landslide-history/excel/lsdb_access_3Aug07.xls
+:frequency: unknown
+:organization: 
+  :name: geology.utah.gov
+  :url: http://geology.utah.gov
+:source_type: dataset
+:title: Landslide Database of Utah, 1850-1978
+:url: http://geology.utah.gov

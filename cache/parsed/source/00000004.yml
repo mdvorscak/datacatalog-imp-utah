@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Utah Refinery Receipts of Crude Oil by State of Origin, 1960-2008
+:downloads: 
+- :format: XLS
+  :url: http://geology.utah.gov/emp/energydata/statistics/petroleum3.0/T3.15a%20&%20F3.8.xls
+:frequency: unknown
+:organization: 
+  :name: geology.utah.gov
+  :url: http://geology.utah.gov
+:source_type: dataset
+:title: Utah Refinery Receipts of Crude Oil
+:url: http://geology.utah.gov

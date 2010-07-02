@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: A directory of companies in 28 Utah Counties excluding Salt Lake County
+:downloads: 
+- :format: CSV
+  :url: http://jobs.utah.gov/jsp/firmfind/csvfiles/ffind_other.csv
+:frequency: unknown
+:organization: 
+  :name: jobs.utah.gov
+  :url: http://jobs.utah.gov
+:source_type: dataset
+:title: Firmfind - Other Utah Counties
+:url: http://jobs.utah.gov

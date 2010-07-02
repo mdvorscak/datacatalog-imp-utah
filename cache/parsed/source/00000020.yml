@@ -1,0 +1,16 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Comparison of Death Rates at Utah Hospitals for Pneumonia Patients
+:downloads: 
+- :format: CSV
+  :url: http://health.utah.gov/myhealthcare/reports/2007/pnuemonia/quality/PneumoniaQuality
+- :format: XLS
+  :url: http://health.utah.gov/myhealthcare/reports/2007/pnuemonia/quality/PneumoniaQuality
+:frequency: unknown
+:organization: 
+  :name: health.utah.gov
+  :url: http://health.utah.gov
+:source_type: dataset
+:title: Pneumonia Deaths
+:url: http://health.utah.gov

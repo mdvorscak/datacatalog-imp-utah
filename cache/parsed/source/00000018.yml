@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: This geologic map allows viewers to see the geology in three dimensions (3-D). We created an overlay of the new geologic map of the St. George 30' x 60' quadrangle (the map is currently in the final stages of review) that can be draped over the landscape on virtual globes such as Google Earth.
+:downloads: 
+- :format: KML
+  :url: http://geology.utah.gov/geo_guides/st_george/kmz/Geology%20of%20the%20NE%20quarter%20of%20the%20St.%20George%2030%27x60%27%20quad.kmz
+:frequency: unknown
+:organization: 
+  :name: geology.utah.gov
+  :url: http://geology.utah.gov
+:source_type: dataset
+:title: St. George Geology NE Corner
+:url: http://geology.utah.gov

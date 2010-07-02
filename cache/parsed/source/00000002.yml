@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Part of a larger set of spacial data files that can be found at http://www.co.weber.ut.us/wiki/index.php/Category:KMZ
+:downloads: 
+- :format: KML
+  :url: http://www.co.weber.ut.us/wiki/images/4/49/WeberCountyCities.kmz
+:frequency: unknown
+:organization: 
+  :name: www.co.weber.ut.us
+  :url: http://www.co.weber.ut.us
+:source_type: dataset
+:title: Weber County City Boundaries
+:url: http://www.co.weber.ut.us

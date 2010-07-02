@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Average Newborn Hospital Charges
+:downloads: 
+- :format: XLS
+  :url: http://health.utah.gov/myhealthcare/reports/maternity2006/charges/normalNewborn.xls
+:frequency: unknown
+:organization: 
+  :name: health.utah.gov
+  :url: http://health.utah.gov
+:source_type: dataset
+:title: Newborn Hospital Charges
+:url: http://health.utah.gov

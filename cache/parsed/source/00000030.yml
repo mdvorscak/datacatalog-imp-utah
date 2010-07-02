@@ -1,0 +1,14 @@
+--- 
+:catalog_name: utah.gov
+:catalog_url: http://www.utah.gov/data/state_data_files.html
+:description: Exploration and Drilling Activity (Oil and Gas) in Utah, 1960-2008
+:downloads: 
+- :format: XLS
+  :url: http://geology.utah.gov/emp/energydata/statistics/petroleum3.0/T3.3.xls
+:frequency: unknown
+:organization: 
+  :name: geology.utah.gov
+  :url: http://geology.utah.gov
+:source_type: dataset
+:title: "Exploration and Drilling Activity "
+:url: http://geology.utah.gov
