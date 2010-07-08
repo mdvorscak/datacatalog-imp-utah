@@ -11,10 +11,10 @@ class Puller
   
   #Pull the initial data down and save it locally, parsed in easily readable form.
   def initialize
-  #  @logger = Logger.new(@pull_log)
-    document = U.parse_html_from_file_or_uri(@base_uri, @index_html, :force_fetch => FORCE_FETCH)
+    document = U.parse_html_from_file_or_uri(@base_uri, @index_html, 
+                                             :force_fetch => FORCE_FETCH)
 
-    @index_metadata=get_metadata(document)
+    @index_metadata = get_metadata(document)
     U.write_yaml(@index_data, @index_metadata) # for easy viewing later
   end
 
