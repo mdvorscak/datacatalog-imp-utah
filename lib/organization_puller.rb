@@ -6,6 +6,8 @@ require 'uri'
 class OrganizationPuller < Puller
 
   def initialize
+    @source_page    = 'http://www.utah.gov/data/state_data_files.html'
+    @source_index   = Output.file '/../cache/raw/source/index.html'
     @base_uri       = 'http://www.utah.gov/government/agencylist.html'
     @details_folder = Output.dir  '/../cache/raw/organization/detail'
     @index_data     = Output.file '/../cache/raw/organization/index.yml'
@@ -79,10 +81,42 @@ class OrganizationPuller < Puller
   private
 
   def append_bonus_data(metadata)
-    metadata << { :name => "jobs.utah.gov" ,      :href => "http://jobs.utah.gov" }
-    metadata << { :name => "governor.utah.gov" ,  :href => "http://governor.utah.gov" }
-    metadata << { :name => "mesowest.utah.edu" ,  :href => "http://mesowest.utah.edu" }
-    metadata << { :name => "www.e911.utah.gov" ,  :href => "http://www.e911.utah.gov" }
-    metadata << { :name => "www.co.weber.ut.us" , :href => "http://www.co.weber.ut.us" }
+    doc = U.parse_html_from_file_or_uri(@source_page, @source_index, 
+                                             :force_fetch => FORCE_FETCH)
+	  table_rows = doc.xpath("//table//tr")
+    format_cells = 2..5
+
+	  table_rows.delete(table_rows[0])
+	  table_rows.each do | row |
+		  cells = row.css("td")
+
+      format_cells.each do | x |
+        org_metadata = get_org(cells[x])
+        unless org_metadata.nil?
+          already_exists = metadata.find { | data | data[:href] == org_metadata[:href] }
+          metadata << org_metadata unless already_exists
+          break
+        end
+      end
+
+    end
   end
+
+  def get_org(node)
+	  a_tag = node.css("a").first
+	  if a_tag
+		  link = a_tag["href"]
+
+		  #strip http:// out to make the next regex simpler
+		  plain_link = link.gsub("http://", "")
+		  #Only go to the first /
+		  source_link = plain_link.scan(/.*?\//).first
+		  	
+      return { :href => "http://" + source_link.chop! ,
+		           :name => source_link }
+    else
+      nil
+    end
+  end
+
 end
