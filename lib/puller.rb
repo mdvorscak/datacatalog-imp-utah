@@ -1,4 +1,4 @@
-gem 'datacatalog-importer', '>= 0.1.19'
+gem 'datacatalog-importer', '~> 0.1.19'
 require 'datacatalog-importer'
 
 class Puller
@@ -6,7 +6,7 @@ class Puller
   U = DataCatalog::ImporterFramework::Utility
   I = DataCatalog::ImporterFramework
   
-  FETCH_DELAY = 0.3
+  FETCH_DELAY = 0.1
   FORCE_FETCH = true 
   
   #Pull the initial data down and save it locally, parsed in easily readable form.
